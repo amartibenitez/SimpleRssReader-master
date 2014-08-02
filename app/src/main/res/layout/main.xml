@@ -3,5 +3,5 @@
     android:layout_width="fill_parent"
     android:id="@+id/fragment_container"
     android:layout_height="fill_parent"
-    android:background="#5C3B2A"
+    android:background="#ff6d7129"
     android:clickable="true" />
